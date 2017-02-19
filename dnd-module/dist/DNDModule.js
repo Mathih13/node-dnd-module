@@ -4,7 +4,7 @@ const config = require('electron-json-config');
 
 var playerCharacters;
 var playerClasses;
-var parties = new Array();
+var parties;
 configSetup();
 
 
@@ -44,6 +44,7 @@ var DND = (function () {
   DND.newParty = function newParty(members) {
     var p = new Party(members)
     parties.push(p);
+    saveToConfig();
     return p;
   };
 
