@@ -1,19 +1,29 @@
-{
-  "name": "dnd-module",
-  "version": "0.5.3",
-  "description": "Data model for managing player characters and parties for DMS",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Mathih13/node-dnd-module.git"
-  },
-  "author": "Mathias Hartveit",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Mathih13/node-dnd-module/issues"
-  },
-  "homepage": "https://github.com/Mathih13/node-dnd-module#readme"
+{"name": "dnd-module",
+ "version": "0.5.3",
+ "description": "dnd-module",
+ "keywords": [
+   "Node.js",
+   "application"
+ ],
+ "author": {
+   "name": "OpenShift",
+   "email": "ramr@example.org",
+   "url": "http://www.openshift.com/"
+ },
+ "homepage": "http://www.openshift.com/",
+ "repository": {
+   "type": "git",
+   "url": "https://github.com/openshift/origin-server"
+ },
+ "engines": {
+   "node": ">= 0.6.0",
+   "npm": ">= 1.0.0"
+ },
+ "dependencies": {
+   "enum": "~2.4.0"
+ },
+ "devDependencies": {},
+ "bundleDependencies": [],
+ "private": true,
+ "main": "index.js"
 }
