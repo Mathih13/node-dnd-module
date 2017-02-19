@@ -20,7 +20,8 @@
    "npm": ">= 1.0.0"
  },
  "dependencies": {
-   "enum": "~2.4.0"
+   "enum": "~2.4.0",
+   "electron-json-config": "~1.4.0"
  },
  "devDependencies": {},
  "bundleDependencies": [],
