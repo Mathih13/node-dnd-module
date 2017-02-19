@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "enum": "2.3.0",
-  }
+    "enum": "2.3.0"
+  },
 }
