@@ -1,11 +1,19 @@
 {
   "name": "dnd-module",
-  "version": "0.5.2",
-  "description": "Module for managing data regarding player characters and parties for DMs",
+  "version": "0.5.3",
+  "description": "Data model for managing player characters and parties for DMS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathih13/node-dnd-module.git"
+  },
+  "author": "Mathias Hartveit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mathih13/node-dnd-module/issues"
+  },
+  "homepage": "https://github.com/Mathih13/node-dnd-module#readme"
 }
