@@ -6,7 +6,7 @@ Data model for managing player characters(xp, lvl, class) and parties for DMs
 using powershell or terminal execute an install via the link:
 
 ``` 
-  npm install 
+  npm install https://github.com/Mathih13/node-dnd-module/raw/master/dnd-module.tar.gz
 ```
 
 
